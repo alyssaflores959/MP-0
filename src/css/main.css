@@ -17,3 +17,6 @@ img {
     padding-right: 30px;
     background-color: #B99CC8;
 }
+.box p {
+    align-self: flex-start;
+}
