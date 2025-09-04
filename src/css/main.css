@@ -1,1 +1,19 @@
 /* Your CSS here. */
+img {
+    height: 150px;
+    width: 150px;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #B99CC8;
+}
